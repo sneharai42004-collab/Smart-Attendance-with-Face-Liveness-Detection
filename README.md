@@ -172,5 +172,5 @@ Feel free to open an [issue](https://github.com/Zerodistraction-max/Smart-Attend
 ---
 
 <p align="center">
-  Made  by <a href="https://github.com/Zerodistraction-max">Suryansh Sapehia</a>
+  Made  by <a href="https://github.com/Zerodistraction-max">Sneha Rai</a>
 </p>
